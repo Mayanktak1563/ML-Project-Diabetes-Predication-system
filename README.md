@@ -17,7 +17,6 @@ The dataset encompasses critical health metrics, providing a comprehensive view 
 - BMI (Body Mass Index)
 - Age
 - Outcome: Target variable indicating diabetes presence (1) or absence (0)
- <img src="path/to/your/image.jpg" alt="Image" style="width: 50%; height: auto;">
 ![img 1](https://github.com/MayankTak03/ML-Project-Diabetes-Predication-system/assets/151378644/08e15958-8f15-46f5-8ce9-98c4bff4bdee)
 
 
