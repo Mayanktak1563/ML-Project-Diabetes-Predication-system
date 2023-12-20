@@ -27,5 +27,6 @@ The developed Diabetes Prediction System demonstrates promising accuracy and rel
 ![interface1](https://github.com/MayankTak03/ML-Project-Diabetes-Predication-system/assets/151378644/5a6bae1b-ff96-4f30-b5a5-b3aacf2316e7)
 
 ## Files Included
-- [.ipynb Notebook](https://github.com/siham-bouguern/Diabetes-Prediction-System/blob/main/Diabetes%20Prediction%20System.ipynb)
-- [Dataset](https://github.com/siham-bouguern/Diabetes-Prediction-System/blob/main/diabetes.csv)
+Stremlit file:
+Frontend part python file:
+
