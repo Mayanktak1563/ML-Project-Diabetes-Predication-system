@@ -1,4 +1,4 @@
-# Diabetes Prediction System - 
+# Diabetes Prediction System 
 ***
 ## Project Description
 This project presents a predictive model for diagnosing diabetes based on the analysis of diagnostic measurements. The dataset utilized is sourced from the National Institute of Diabetes and Digestive and Kidney Diseases, specifically focusing on females aged at least 21 years old of Pima Indian heritage. The primary objective is to predict the likelihood of a patient having diabetes through the examination of various medical predictor variables.
@@ -17,6 +17,7 @@ The dataset encompasses critical health metrics, providing a comprehensive view 
 - BMI (Body Mass Index)
 - Age
 - Outcome: Target variable indicating diabetes presence (1) or absence (0)
+ <img src="path/to/your/image.jpg" alt="Image" style="width: 50%; height: auto;">
 ![img 1](https://github.com/MayankTak03/ML-Project-Diabetes-Predication-system/assets/151378644/08e15958-8f15-46f5-8ce9-98c4bff4bdee)
 
 
@@ -27,6 +28,6 @@ The developed Diabetes Prediction System demonstrates promising accuracy and rel
 ![interface1](https://github.com/MayankTak03/ML-Project-Diabetes-Predication-system/assets/151378644/5a6bae1b-ff96-4f30-b5a5-b3aacf2316e7)
 
 ## Files Included
-Stremlit file:https://github.com/MayankTak03/ML-Project-Diabetes-Predication-system/blob/main/streamlit.py
-Frontend part python file:https://github.com/MayankTak03/ML-Project-Diabetes-Predication-system/blob/main/dibetes_main.ipynb
-csv File:https://github.com/MayankTak03/ML-Project-Diabetes-Predication-system/blob/main/diabetes.csv
+Stremlit file:https://github.com/MayankTak03/ML-Project-Diabetes-Predication-system/blob/main/streamlit.py <br>
+Frontend part python file:https://github.com/MayankTak03/ML-Project-Diabetes-Predication-system/blob/main/dibetes_main.ipynb <br>
+csv File:https://github.com/MayankTak03/ML-Project-Diabetes-Predication-system/blob/main/diabetes.csv <br>
